@@ -8,7 +8,7 @@ const language_code = 'en';
 
 const config = {
     client_tid: "",
-    client_uuid: "",
+    client_uuid: "b4e1a8e2-c2f3-4d6b-9e7a-9f8b0c5d3e2f",
     random_resource: "uYU5M2i12UhDvDTzN6hZPg",
     username: ""
 };
